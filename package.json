@@ -1,0 +1,1 @@
+{"dependencies":{"@tensorflow-models/coco-ssd":"^2.2.3","@tensorflow/tfjs":"^4.13.0","agora-app-builder-cli":"2.0.9","mongodb":"^6.3.0"},"keywords":[],"license":"MIT","name":"agora-app-builder","scripts":{"start":"agora-app-builder-cli","start:info":"agora-app-builder-cli --info"},"version":"1.0.0"}

@@ -25,6 +25,3 @@ To set up iWatch for development or testing, follow these steps:
 
 ## Features
 *Details about the features of the application will be added shortly.*
-
-## License
-This project is licensed under the standard license. For more information, see the LICENSE file in the repository.
